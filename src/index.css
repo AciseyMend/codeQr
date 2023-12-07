@@ -100,27 +100,26 @@ html {
 }
 
 
-
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 694px) {
   .App {
-    padding: 5px;
+    padding: 10px;
   }
 
   .card {
-    width: 60vw;
-    max-width: 60%;
-    border-radius: 10px;
+    width: 80vw;
+    max-width: 100%;
+    border-radius: 15px;
     box-shadow: none;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     padding: 15px;
   }
 
   .img-codeqr {
-    padding: 10px;
-    border-radius: 20px;
-    margin-top: 10px;
-    width: 65%;
-    max-width: 65%;
+    padding: 15px;
+    border-radius: 25px;
+    margin-top: 15px;
+    width: 70%;
+    max-width: 70%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -128,16 +127,15 @@ html {
   }
 
   .title {
-    font-size: 16px;
-    padding: 5px;
+    font-size: 20px;
+    padding: 10px;
   }
 
   .text {
-    font-size: 10px;
-    padding: 5px;
+    font-size: 12px;
+    padding: 10px;
   }
 }
-
 
 
 @media screen and (max-width: 768px) {
