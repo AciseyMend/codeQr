@@ -6,7 +6,7 @@ function App() {
     <div className="App">
         <div className='card' >
           <a>
-            <img className='img-codeqr'src={images.codeQr} />
+            <img className='img-codeqr'src={images.codeQr} alt='image-codeQr' />
           </a>
           <h1 className='title'>Improve your front-end skills by building projects</h1>
           <p className='text'>
