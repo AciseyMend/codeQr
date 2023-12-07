@@ -107,8 +107,8 @@ html {
   }
 
   .card {
-    width: 70vw;
-    max-width: 70%;
+    width: 60vw;
+    max-width: 60%;
     border-radius: 10px;
     box-shadow: none;
     margin-bottom: 10px;
@@ -119,8 +119,8 @@ html {
     padding: 10px;
     border-radius: 20px;
     margin-top: 10px;
-    width: 70%;
-    max-width: 70%;
+    width: 65%;
+    max-width: 65%;
     height: auto;
     display: block;
     margin-left: auto;
